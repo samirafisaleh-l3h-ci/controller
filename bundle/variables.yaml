@@ -1,0 +1,4 @@
+variables:
+- team: samirafisaleh-l3h-ci
+- admin-user: samirafisaleh-l3h-admin
+- manager-user: samirafisaleh-l3h
